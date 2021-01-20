@@ -12,7 +12,7 @@
     "homepage": "https://github.com/masoud5070/vandarerrorsblade",
     "keywords": ["Laravel", "VandarErrorsBlade"],
     "require": {
-        "illuminate/support": "~5"
+        "illuminate/support": ">=5"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
